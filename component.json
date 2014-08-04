@@ -1,0 +1,14 @@
+{
+  "name": "youtube-id",
+  "repo": "bmcmahen/youtube-id",
+  "description": "get the video id from a youtube url",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
